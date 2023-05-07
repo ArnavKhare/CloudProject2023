@@ -1,0 +1,15 @@
+.container{
+  width: 800px !important;
+  margin: 20px;
+}
+.container > h3,
+.container >h4 {
+  text-align: center;
+}
+.content {
+  margin: 20px 0;
+}
+
+.preview {
+  max-width: 200px;
+}
